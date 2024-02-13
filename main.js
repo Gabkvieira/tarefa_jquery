@@ -13,7 +13,7 @@ $(document).ready(function() {
     })
 
     $('ul').on('click', 'li', function(){
-        $(this).addClass('.risca-tarefa');
+        $(this).addClass('risca-tarefa');
     })
 
     $('#botao-limpar').click(function(){

@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: aqua;
+    background-color: rgb(122, 247, 247);
 }
 
 header {
@@ -62,7 +62,7 @@ ul {
 
 ul li{
     text-align: center;
-    background-color: #9deeb8;
+    background-color: #8be9aa;
     width: 500px;
     margin-left: 1000px;
     overflow-y: hidden;
